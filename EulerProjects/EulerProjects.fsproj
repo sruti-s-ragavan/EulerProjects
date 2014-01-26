@@ -49,6 +49,9 @@
     <None Include="App.config" />
     <None Include="Runner.fsx" />
     <Compile Include="SumOfEvenFibonacciNumbers.fs" />
+    <Compile Include="LargestPrimeFactor.fs" />
+    <Compile Include="LargestPalindromeProduct.fs" />
+    <Compile Include="SmallestMultiple.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
