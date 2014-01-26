@@ -12,3 +12,6 @@
 
 //#load "SmallestMultiple.fs"
 //SmallestMultiple.LCMOfNaturalNumbersUpto(10);
+
+#load "SumSquareDifference.fs"
+SumSquareDifference.SumOfSquaresMinusSquareOfSum(10);
